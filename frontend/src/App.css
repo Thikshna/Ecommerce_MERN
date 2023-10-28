@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Rubric", sans-serif;
+}
+
+/* .App {
+  height: "100vh";
+} */
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.scroll{
+  overflow: scroll;
+  overflow-y: hidden;
+}
